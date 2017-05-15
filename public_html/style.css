@@ -1,0 +1,17 @@
+.broj_klikova {
+    color: white;
+    background-color: darkorchid;
+    width:100px;
+    height:100px;
+    margin-left: 10px
+}
+
+#spoljni_div {
+    width: 50%;
+    background-color: rgba(155, 20, 10, 0.3);
+}
+
+#dugme {
+    float: right;
+    margin-right: 10px;
+}
